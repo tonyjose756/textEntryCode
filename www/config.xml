@@ -3,13 +3,13 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "mob.app.dev.lifecycle"
+        id        = "mob.app.dev.textentry1"
         version   = "1.0.0.1.2">
 
-    <name>Application Storage</name>
+    <name>Output Modalities</name>
 
     <description>
-        A sample application that counts the occurances of lifecycle events.
+        A sample application that generates true or false
     </description>
 
     <author href="worcester.ac.uk" email="c.bowers@worc.ac.uk">
